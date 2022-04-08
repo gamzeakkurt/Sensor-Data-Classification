@@ -1,6 +1,6 @@
 # Sensor-Data-Classification
 
-Data is a CSV file and it includes sensors data information. In Jupiter notebook has 
+Data is a CSV file and it includes sensors data information. Jupiter notebook has 
 data cleaning and labelling, 
 visualization of sensor data, 
 regression analysis between 's5-s10' sensors differences, classification results for 's5-s10' differences,
